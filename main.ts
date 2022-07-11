@@ -8,6 +8,3 @@ loops.everyInterval(60000, function () {
         # # # # #
         `)
 })
-basic.forever(function () {
-	
-})
